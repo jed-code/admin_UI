@@ -1,0 +1,58 @@
+.WidgetSmall {
+  flex: 1;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.7.5);
+  padding: 20px;
+  margin-right: 20px;
+}
+.widgetSmallItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+.widgetSmallTitle {
+  font-size: 22px;
+  font-weight: 600;
+}
+.widgetSmallList {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.widgetImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.widgetUser {
+  display: flex;
+  flex-direction: column;
+}
+
+.widgetUserName {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.widgetUserJobTitle {
+  font-weight: 300;
+}
+.widgetSmallButtom {
+  display: flex;
+  align-items: center;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 7px;
+  background-color: #eeeef7;
+  color: #555;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.widgetSmallIcon {
+  font-size: 16px;
+  margin-right: 5px;
+}

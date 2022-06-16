@@ -1,0 +1,51 @@
+.WidgetLarge {
+  flex: 2;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.7.5);
+  padding: 20px;
+}
+.widgetLargeTitle {
+  font-size: 22px;
+  font-weight: 600;
+}
+.WidgetLargeTable {
+  width: 100%;
+  border-spacing: 20px;
+}
+.WidgetLargeTableHead {
+  text-align: left;
+}
+.WidgetUser {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+}
+.WidgetImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.WidgetDate,
+.WidgetStatus {
+  font-weight: 300;
+}
+.WidgetLargeButton {
+  padding: 5px 7px;
+  border: none;
+  border-radius: 10px;
+}
+.WidgetLargeButton.approved {
+  background-color: rgb(141, 252, 159);
+  color: rgb(2, 151, 27);
+}
+.WidgetLargeButton.Declined {
+  background-color: rgb(255, 144, 144);
+  color: rgb(158, 23, 23);
+}
+.WidgetLargeButton.Pending {
+  background-color: rgb(111, 109, 255);
+  color: rgb(24, 22, 153);
+}
