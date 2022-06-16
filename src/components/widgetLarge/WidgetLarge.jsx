@@ -29,7 +29,7 @@ export default function WidgetLarge() {
             <span className="WidgetName">Jenovic Kabunda</span>
           </td>
           <td className="WidgetDate">16 june 2022</td>
-          <td className="WidgetAmount">R 3000</td>
+          <td className="WidgetAmount">R 5000</td>
           <td className="WidgetStatus">
             <button className="WidgetLargeButton Declined">Declined</button>
           </td>
@@ -40,7 +40,7 @@ export default function WidgetLarge() {
             <span className="WidgetName">Jenovic Kabunda</span>
           </td>
           <td className="WidgetDate">16 june 2022</td>
-          <td className="WidgetAmount">R 3000</td>
+          <td className="WidgetAmount">R 2000</td>
           <td className="WidgetStatus">
             <button className="WidgetLargeButton Declined">Declined</button>
           </td>
@@ -51,7 +51,7 @@ export default function WidgetLarge() {
             <span className="WidgetName">Jenovic Kabunda</span>
           </td>
           <td className="WidgetDate">16 june 2022</td>
-          <td className="WidgetAmount">R 3000</td>
+          <td className="WidgetAmount">R 1000</td>
           <td className="WidgetStatus">
             <button className="WidgetLargeButton Pending">Pending</button>
           </td>
