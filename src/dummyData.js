@@ -1,3 +1,78 @@
+export const productRows = [
+  {
+    id: 1,
+    name: "Apple Airpods",
+    img: "./image/jed6.jpg",
+    stock: 45,
+    status: "Active",
+    price: "R 3200",
+  },
+  {
+    id: 2,
+    name: "Iphone",
+    img: "./image/jed2.jpg",
+    stock: 23,
+    status: "Active",
+    price: "R 30000",
+  },
+  {
+    id: 3,
+    name: "TV",
+    img: "./image/jed4.jpg",
+    stock: 50,
+    status: "Active",
+    price: "R 18000",
+  },
+  {
+    id: 4,
+    name: "Playstation",
+    img: "./image/jed5.png",
+    stock: 100,
+    status: "Active",
+    price: "R 45000",
+  },
+  {
+    id: 5,
+    name: "Shoes",
+    img: "./image/jed3.jpg",
+    stock: 200,
+    status: "Active",
+    price: "R 490",
+  },
+  {
+    id: 6,
+    name: "Bag",
+    img: "./image/jeje4.png",
+    stock: 130,
+    status: "Active",
+    price: "R 700",
+  },
+  {
+    id: 7,
+    name: "Belt",
+    img: "./image/jeje3.png",
+    stock: 50,
+    status: "Active",
+    price: "R 350",
+  },
+  {
+    id: 8,
+    name: "Car",
+    img: "./image/jeje1.png",
+    stock: 10,
+    status: "Active",
+    price: "R 4000000",
+  },
+  {
+    id: 9,
+    name: "Bed",
+    img: "./image/jeje2.png",
+    stock: 20,
+    status: "Active",
+    price: "R 4300",
+  },
+];
+
 export const userRows = [
   {
     id: 1,
