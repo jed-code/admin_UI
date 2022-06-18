@@ -2,7 +2,7 @@ export const productRows = [
   {
     id: 1,
     name: "Apple Airpods",
-    img: "./image/jed6.jpg",
+    img: "./image/airpords.jpg",
     stock: 45,
     status: "Active",
     price: "R 3200",
@@ -10,7 +10,7 @@ export const productRows = [
   {
     id: 2,
     name: "Iphone",
-    img: "./image/jed2.jpg",
+    img: "./image/iphone.jpg",
     stock: 23,
     status: "Active",
     price: "R 30000",
@@ -18,7 +18,7 @@ export const productRows = [
   {
     id: 3,
     name: "TV",
-    img: "./image/jed4.jpg",
+    img: "./image/tv.jpg",
     stock: 50,
     status: "Active",
     price: "R 18000",
@@ -26,7 +26,7 @@ export const productRows = [
   {
     id: 4,
     name: "Playstation",
-    img: "./image/jed5.png",
+    img: "./image/playstation.jpg",
     stock: 100,
     status: "Active",
     price: "R 45000",
@@ -34,7 +34,7 @@ export const productRows = [
   {
     id: 5,
     name: "Shoes",
-    img: "./image/jed3.jpg",
+    img: "./image/shoe.jpg",
     stock: 200,
     status: "Active",
     price: "R 490",
@@ -42,7 +42,7 @@ export const productRows = [
   {
     id: 6,
     name: "Bag",
-    img: "./image/jeje4.png",
+    img: "./image/bag.jpg",
     stock: 130,
     status: "Active",
     price: "R 700",
@@ -50,7 +50,7 @@ export const productRows = [
   {
     id: 7,
     name: "Belt",
-    img: "./image/jeje3.png",
+    img: "./image/belt.jpg",
     stock: 50,
     status: "Active",
     price: "R 350",
@@ -58,7 +58,7 @@ export const productRows = [
   {
     id: 8,
     name: "Car",
-    img: "./image/jeje1.png",
+    img: "./image/car.jpg",
     stock: 10,
     status: "Active",
     price: "R 4000000",
@@ -66,7 +66,7 @@ export const productRows = [
   {
     id: 9,
     name: "Bed",
-    img: "./image/jeje2.png",
+    img: "./image/bed.jpg",
     stock: 20,
     status: "Active",
     price: "R 4300",
